@@ -1,0 +1,19 @@
+[{
+	"name": "Mariano Rajoy",
+	"img": "img/candidatos/rajoybw.png",
+	"hoverimg": "img/category1.jpg"
+}, {
+	"name": "Pedro Sánchez",
+	"img": "img/candidatos/sanchezbw.png",
+	"hoverimg": "img/category1.jpg"
+
+}, {
+	"name": "Albert Rivera",
+	"img": "img/candidatos/riverabw.png",
+	"hoverimg": "img/category1.jpg"
+
+}, {
+	"name": "Pablo Iglesias",
+	"img": "img/candidatos/iglesiasbw.png",
+	"hoverimg": "img/category1.jpg"
+}]

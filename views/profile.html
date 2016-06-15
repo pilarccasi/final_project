@@ -1,0 +1,8 @@
+<section ng-controller="profilesController" id="profilesSection">
+		<div class="row" id="profiles" >
+			<div class="col-xs-6" id="profile" ng-repeat="profile in profiles"> 
+				<a href="#">
+	 			<img class="img-responsive" ng-src="{{profile.img}}" alt="{{profile.name}}"></a>
+			</div>	
+		</div>	
+	</section>		
